@@ -4,7 +4,7 @@
 #
 Name     : R-SQUAREM
 Version  : 2017.10.1
-Release  : 22
+Release  : 23
 URL      : https://cran.r-project.org/src/contrib/SQUAREM_2017.10-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/SQUAREM_2017.10-1.tar.gz
 Summary  : Squared Extrapolation Methods for Accelerating EM-Like Monotone
