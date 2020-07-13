@@ -4,7 +4,7 @@
 #
 Name     : R-SQUAREM
 Version  : 2020.3
-Release  : 29
+Release  : 30
 URL      : https://cran.r-project.org/src/contrib/SQUAREM_2020.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/SQUAREM_2020.3.tar.gz
 Summary  : Squared Extrapolation Methods for Accelerating EM-Like Monotone
