@@ -4,7 +4,7 @@
 #
 Name     : R-SQUAREM
 Version  : 2021.1
-Release  : 45
+Release  : 46
 URL      : https://cran.r-project.org/src/contrib/SQUAREM_2021.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/SQUAREM_2021.1.tar.gz
 Summary  : Squared Extrapolation Methods for Accelerating EM-Like Monotone
